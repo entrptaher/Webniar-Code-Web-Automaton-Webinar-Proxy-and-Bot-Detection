@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"fingerprint-injector": "^2.1.48",
+		"proxy-chain": "^2.4.0",
+		"puppeteer": "^22.2.0",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-recaptcha": "^3.6.8",
+		"puppeteer-extra-plugin-stealth": "^2.11.2"
+	}
+}
